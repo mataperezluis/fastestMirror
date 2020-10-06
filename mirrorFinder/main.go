@@ -3,7 +3,7 @@ package mirrorFinder
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/mataperezluis/fastestMirror/mirrorFinder"
+	"github.com/mataperezluis/fastestMirror/mirrors"
 	"log"
 	"net/http"
 	"time"
