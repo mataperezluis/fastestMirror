@@ -1,4 +1,4 @@
-package mirrorFinder
+package main
 
 import (
 	"encoding/json"
